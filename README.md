@@ -1,7 +1,7 @@
 # Web-Browser-Using-Python
 
-It's a simple browser which can be use for regular Internet surfing. It has navigation buttons(icons) to navigate through out surfing providing a user-friendly interface.
-It has some extra buttons which directly changes to different serach engine as desired by the users.
+It's a simple browser that can be used for regular Internet surfing. It has navigation buttons(icons) to navigate throughout surfing providing a user-friendly interface.
+It has some extra buttons which directly changes to a different search engine as desired by the users and as default google search engine has been set.
 
 
 
