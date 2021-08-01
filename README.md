@@ -5,7 +5,7 @@ It has some extra buttons which directly changes to a different search engine as
 
 
 
-# These are some Screenshot of the game.
+# These are some Screenshot of the Browser.
 <img src="https://github.com/abhi-511/Web-Browser-Using-Python/blob/main/Screenshots/S1.png" alt="alt text" height=300 width="500"/>         <img src="https://github.com/abhi-511/Web-Browser-Using-Python/blob/main/Screenshots/S2.png" alt="drawing"  height=300 width="500"/>
 <img src="https://github.com/abhi-511/Web-Browser-Using-Python/blob/main/Screenshots/S3.png" alt="drawing"  height=300 width="500"/>         <img src="https://github.com/abhi-511/Web-Browser-Using-Python/blob/main/Screenshots/S4.png" alt="drawing"  height=300 width="500"/>         
 
